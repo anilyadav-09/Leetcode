@@ -32,8 +32,6 @@ public class FindSecondHighestNo {
                     ", and the second-largest element does not exist.");
             return;
         }
-
-
         // Step 3: Extract second-largest
         int secondHighestNo = sortedList.get(1);
         System.out.println("Second-highest Number is " + secondHighestNo);
