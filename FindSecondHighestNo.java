@@ -10,11 +10,11 @@ Explanation: The largest element of the array is 35 and the second largest eleme
 
 Input: arr[] = [10, 5, 10]
 Output: 5
-Explanation: The largest element of the array is 10 and the second largest element is 5.
+Explanation: The largest element of the array is 10, and the second largest element is 5.
 
 Input: arr[] = [10, 10, 10]
 Output: -1
-Explanation: The largest element of the array is 10 and the second largest element does not exist.*/
+Explanation: The largest element of the array is 10, and the second largest element does not exist.*/
 
 public class FindSecondHighestNo {
     public static void main(String[] args) {
